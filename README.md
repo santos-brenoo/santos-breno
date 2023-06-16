@@ -3,9 +3,9 @@
 I am an Analytics Engineer with a strong background in ETL development, data pipeline automation, dashboard creation, and data analysis. I have knowledge of a variety of databases, including PostgreSQL, MySQL, SQL Server, and BigQuery. Additionally, I am proficient in programming languages such as Python and frameworks like Apache Spark. I have experience using data visualization tools such as Power BI, Zoho Analytics, and Metabase. I have worked with cloud platforms like AWS and GCP, utilizing data tools such as Apache Airflow, Kafka, Databricks and Airbyte.
 
 <div>
-  <a href="https://github.com/santos-breno">
-  <img height="166em" src="https://github-readme-stats.vercel.app/api?username=santos-breno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <! <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santos-breno&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/santos-brenoo">
+  <img height="166em" src="https://github-readme-stats.vercel.app/api?username=santos-brenoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <! <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santos-brenoo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   ##
