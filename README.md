@@ -1,7 +1,6 @@
 # Hi, I'm Breno
 
-- ⌚ Currently working with Analytics Engineer at Zak
-- 💻 Studying Analysis and Systems Development
+I am an Analytics Engineer with a strong background in ETL development, data pipeline automation, dashboard creation, and data analysis. I have knowledge of a variety of databases, including PostgreSQL, MySQL, SQL Server, and BigQuery. Additionally, I am proficient in programming languages such as Python and frameworks like Apache Spark. I have experience using data visualization tools such as Power BI, Zoho Analytics, and Metabase. I have worked with cloud platforms like AWS and GCP, utilizing data tools such as Apache Airflow, Kafka, Databricks and Airbyte.
 
 <div>
   <a href="https://github.com/santos-breno">
@@ -38,5 +37,5 @@
   
 <div>
  
- ![Snake animation](https://github.com/santos-breno/santos-breno/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/santos-brenoo/santos-brenoo/blob/output/github-contribution-grid-snake.svg)
 </div>
